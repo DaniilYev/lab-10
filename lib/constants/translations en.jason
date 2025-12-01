@@ -1,0 +1,7 @@
+{
+  "app_title": "My Localized App",
+  "hello": "Hello!",
+  "language": "Change Language",
+  "welcome_message": "Welcome to our Flutter localization demo."
+}
+

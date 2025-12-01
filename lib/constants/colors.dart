@@ -1,16 +1,9 @@
-import 'dart:ui';
+import 'package:flutter/material.dart';
 
 class AppColors {
-  static const Color secondary = Color(0xFFFFBB00);
-  static const Color tretiary = Color(0xFFA6A6E3);
-  static const Color gray = Color(0xFF606060);
-  static const Color inactive = Color(0xFFBDBDBD);
-  static const Color confirmed = Color(0xFF27AE60);
-  static const Color error = Color(0xFFFF0000);
-  static const Color LightGreyColor = Color(0xFFDDE3E9);
-  static const Color PrimaryColor = Color(0xFFF8F8F8);
-  static const Color CreamColor = Color(0xFFFFE9AE);
-  static const Color IndigoColor = Color(0xFF440C81); // use as it
-  static const Color Azure = Color(0xFF535C0);
+  static const Color primary = Color(0xFF1565C0);
+  static const Color accent = Color(0xFFFF9800);
+  static const Color background = Color(0xFFF5F5F5);
+  static const Color textDark = Color(0xFF212121);
+  static const Color textLight = Color(0xFFFFFFFF);
 }
-
